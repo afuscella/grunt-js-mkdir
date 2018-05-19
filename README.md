@@ -1,4 +1,4 @@
-# grunt-js-mkdir
+# grunt-js-mkdir v0.1.0 [![Build Status](https://travis-ci.org/afuscella/grunt-js-mkdir.svg?branch=master)](https://travis-ci.org/afuscella/grunt-js-mkdir)
 
 > Create directories with Grunt (based on grunt-mkdir)
 
