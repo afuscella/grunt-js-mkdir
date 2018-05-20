@@ -1,7 +1,7 @@
 {
   "name": "grunt-js-mkdir",
   "description": "Create directories with Grunt (based on grunt-mkdir)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/afuscella/grunt-js-mkdir",
   "author": {
     "name": "Arthur Silva",
