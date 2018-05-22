@@ -56,14 +56,14 @@ In this example, directory `tmp` and its sub-directories (recursive) will be cre
 
 ```js
 grunt.initConfig({
-  jsmkdir:- {
-    options: {
-      mode: 0770
-    },
-    src: [{
-      'tmp', 'tmp/a', 'tmp/b'
-    }],
-  },
+  jsmkdir: {
+    all: {
+      options: {
+        mode: 0770
+      },
+      src: ['tmp', 'tmp/a', 'tmp/b']
+    }
+  }
 });
 ```
 
